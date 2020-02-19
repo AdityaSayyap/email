@@ -2,5 +2,5 @@ node_modules
 .vscode
 www
 platforms
-resources/android
 resources/ios
+.idea
